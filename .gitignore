@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.env
+*.csv
+*.npz
+*.pkl
+*.png
+*.jpg
+*.mp4
+*.wav
+data/
+local/

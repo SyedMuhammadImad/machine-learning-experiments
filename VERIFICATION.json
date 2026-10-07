@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-08",
+  "verified_at_utc": "2026-10-07T19:11:02.068562+00:00",
+  "project": "machine-learning-experiments",
+  "completion_scope": "verified implementation or finished document; not a production certification",
+  "checks": [
+    {
+      "name": "Eight independent mathematical, label, clustering, list/Boolean, data-conflict and pipeline-fit checks passed",
+      "passed": true
+    },
+    {
+      "name": "Fresh five-dataset tabular comparison, official-MNIST subset, regression, clustering and 129971-row wine operations completed",
+      "passed": true
+    },
+    {
+      "name": "Independent Bernoulli likelihood/prediction and regression parity; every code cell in four notebooks executed",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Curated implementation scope; unavailable historical source tables/images are not reproduced.",
+    "One-seed row splits; raw data, personal records, pictures and fitted binaries remain local. No clinical, credit or operational validity claim."
+  ]
+}

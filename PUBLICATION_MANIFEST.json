@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-08",
+  "title": "Explicit numeric algorithms and tabular model experiments",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "1753d7a03c36b8f0c0014402f6f76177f01bc31a092e1c3828038cb2a16a41f3",
+      "bytes": 100
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "5509c1384acb4f6a179622a96cc1f6a75233c8885199810d3b7fe4c0f03bdda2",
+      "bytes": 1279
+    },
+    {
+      "path": "binary_digit_likelihoods.ipynb",
+      "sha256": "8f6daf859f58e81a702e32724dab86d396971728b221d3bccd91f4be7ca8f401",
+      "bytes": 1852
+    },
+    {
+      "path": "experiment.py",
+      "sha256": "00e23288cf1bd9b0e95b4359f6c1a34ac934f99b9c441109b96e7c30e7ff6328",
+      "bytes": 11161
+    },
+    {
+      "path": "metrics.json",
+      "sha256": "75fb9cb043a39d7c1b9c07d10c44e2d1b724aca7b0e5ec6bb25906c8c53a26b5",
+      "bytes": 17215
+    },
+    {
+      "path": "numerical.py",
+      "sha256": "4c6e3fd8ecff89d821cd1f7989d5d6f61f773d4b6f19116d66aeef21391ba24c",
+      "bytes": 5309
+    },
+    {
+      "path": "numeric_regression_and_clustering.ipynb",
+      "sha256": "46c3b7f0f6a9e2deef86deb7fb6864b5cbabdd4a6483a993b086ae147d796eb2",
+      "bytes": 1911
+    },
+    {
+      "path": "python_basics.py",
+      "sha256": "f1ced3454f33d33f5a19c2f51dbf1e886088a5b4844449a52b89a0d0d5fa4a66",
+      "bytes": 1283
+    },
+    {
+      "path": "README.md",
+      "sha256": "5607d5c9037518bcb876e2de8aa239a449ca41b5eb50171ff843ab2e051da0c1",
+      "bytes": 5750
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "166e55ca203336bccfc011942de3f1afc6dad0eda2f2ea7279ef6a23f76a2723",
+      "bytes": 101
+    },
+    {
+      "path": "table_operations_and_python.ipynb",
+      "sha256": "c1ac3c5107d3d9086e4015e1f3a94b583a20e81f871bf19317390a1b36219975",
+      "bytes": 1804
+    },
+    {
+      "path": "tabular_model_comparison.ipynb",
+      "sha256": "093e3198c03bf70ab8c0a884cda89fdb1fb6b13816e67d59ed6c0c207455ddd8",
+      "bytes": 1848
+    },
+    {
+      "path": "test_numerical.py",
+      "sha256": "468f50cff6e9ba3596ce2a1e0dac2555faa38fa76c001f73a721057676dd33c2",
+      "bytes": 3187
+    },
+    {
+      "path": "test_workflow.py",
+      "sha256": "45771ff3739e0ed6a9083b3aebf7e6d2a44cf51832cb9686a92a84c81895fb9a",
+      "bytes": 2638
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "cec92f397d37f2eb4de13d334b6b54c1905d94e52187ee38decb79cf9828fe53",
+      "bytes": 1044
+    }
+  ]
+}
